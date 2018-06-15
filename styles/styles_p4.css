@@ -1,0 +1,105 @@
+.texto_1{
+  font-weight: bold;
+  font-size: xx-large;
+  color: #000000;
+}
+.texto_2{
+  font-weight: bold;
+  font-size: xx-large;
+  color: #FFFFFF;
+}
+.texto_3{
+  font-weight: bold;
+  font-size: xx-large;
+  color: #FF0000;
+}
+.texto_4{
+  font-weight: bold;
+  font-size: xx-large;
+  color: #00FF00;
+}
+.texto_5{
+  font-weight: bold;
+  font-size: xx-large;
+  color: #0000FF;
+}
+.texto_6{
+  font-weight: bold;
+  font-size: xx-large;
+  color: #FFFF00;
+}
+.texto_7{
+  font-weight: bold;
+  font-size: xx-large;
+  color: #FF00FF;
+}
+
+table{
+  text-align: left;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 3px;
+  font-weight: bold;
+}
+
+th, td{
+  padding: 2px;
+}
+
+.tr_1{
+  text-align: center;
+}
+
+.celda_1{
+  vertical-align: top;
+  background-color: rgb(153, 255, 153);
+  font-size: 1.2em;
+}
+
+.celda_2{
+  vertical-align: middle;
+  text-align: left;
+  background-color: rgb(102, 255, 255);
+  font-size: 1.2em;
+}
+
+.celda_3{
+  vertical-align: top;
+  text-align: center;
+  color: red;
+  font-size: 1.2em;
+}
+
+.celda_4{
+  vertical-align: top;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.celda_5{
+  vertical-align: top;
+  text-align: center;
+  font-size: 1.2em;
+  color: red;
+}
+
+.celda_6{
+  vertical-align: bottom;
+  text-align: right;
+  background-color: rgb(255, 153, 255);
+  font-size: 1.2em;
+}
+
+.celda_7{
+  vertical-align: top;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.celda_8{
+  vertical-align: top;
+  text-align: center;
+  color: red;
+  font-size: 1.2em;
+}

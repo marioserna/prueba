@@ -1,0 +1,23 @@
+.linea_1{
+  height: 5px;
+  width: 50%;
+}
+
+.linea_2{
+  height: 25px;
+  width: 50px;
+}
+.linea_3{
+  height: 10px;
+  width: 75%;
+  background-color: blue;
+  margin-left: 0px;
+}
+.linea_4{
+  height: 50px;
+  width: 60%;
+  border-width: 10px;
+  border-color: green;
+  background-color: red;
+  margin-right: 0px;
+}
